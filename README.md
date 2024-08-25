@@ -11,7 +11,7 @@ In this project, I’ve set up a Python script to interact with the Google Gemin
 Before running the script, make sure you have the following:
 
 1. **Python 3.x**: Ensure Python is installed on your machine.
-2. **Google API Key**: You need an API key for Google Gemini. Add this key to a `.env` file in the root directory of your project.
+2. **Google API Key**: You need an API key for Google Gemini. Add this key to a `.env` file in the root directory of your project. You can get a FREE Google Gemini API Key at https://ai.google.dev
 
 ## Setup
 
